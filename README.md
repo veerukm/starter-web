@@ -16,6 +16,8 @@ This is deploment stage
 
 ##How to contribute
 
+please contibute to repository
+
 ## Copy right
 
 copy 2014
