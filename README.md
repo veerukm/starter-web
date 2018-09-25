@@ -15,3 +15,7 @@ A simple example purpose
 This is deploment stage
 
 ##How to contribute
+
+## Copy right
+
+copy 2014
