@@ -8,6 +8,10 @@ This is program to show different parts of git
 
 ### Purpose
 
+A simple example purpose
+
 ### Deployment
+
+This is deploment stage
 
 ##How to contribute
