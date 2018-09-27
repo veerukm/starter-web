@@ -13,7 +13,7 @@ This is program to show different parts of git
 A simple example purpose
 
 ### Deployment
-
+Omron deployment
 This is deploment stage
 
 ##How to contribute
