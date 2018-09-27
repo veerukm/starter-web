@@ -1,6 +1,8 @@
 # Starter Web Project
+# Adding a line to rebase
 
-This is ew project to shot git
+This is ew project to shot gi
+New project
 
 ##Introduction
 
